@@ -9,4 +9,13 @@ export class AppService {
   postHelo() {
     return 'fsdfsdfsd'
   }
+
+
+  postSfe() {
+    return 'fdfdfd'
+  }
+
+  salasm() {
+    return 'fdfdfd'
+  }
 }
