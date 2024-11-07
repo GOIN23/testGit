@@ -18,4 +18,8 @@ export class AppService {
   salasm() {
     return 'fdfdfd'
   }
+
+  emailAD() {
+    return 'FSDFSD'
+  }
 }
