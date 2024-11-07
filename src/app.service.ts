@@ -18,4 +18,8 @@ export class AppService {
   salasm() {
     return 'fdfdfd'
   }
+
+  login() {
+    return 'sadsafasfdsfsdftokun'
+  }
 }
